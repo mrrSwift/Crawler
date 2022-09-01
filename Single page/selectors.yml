@@ -1,0 +1,5 @@
+
+        asin:
+          css: '#productDetails_detailBullets_sections1 > tbody > tr:nth-child(1)'
+          type: Text
+        
